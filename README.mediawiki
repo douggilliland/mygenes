@@ -1,0 +1,11 @@
+== Dougs Genealogy Files README == 
+* These are my Genealogy software programs. 
+
+=== Ownership === 
+* I own this software. 
+* I have the copyright to this software.
+* Don't use this software as part of any commercial project.
+* Don't put this software anywhere on the Internet or turn it into Public Domain.
+
+=== Warning === 
+* Use at your own risk.
